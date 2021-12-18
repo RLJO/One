@@ -1,0 +1,4 @@
+[submodule "RLJO/Arab"]
+	path = RLJO/Arab
+	url = git@github.com:RLJO/Arab.git
+	branch = app-project_report_pdf
