@@ -27,3 +27,8 @@
 	path = OCA/mis-builder-contrib
 	url = git@github.com:OCA/mis-builder-contrib.git
 	branch = 15.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 15.0
